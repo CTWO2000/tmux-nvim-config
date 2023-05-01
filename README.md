@@ -10,6 +10,6 @@ https://github.com/CTWO2000/config_script.git
 ```
 cd config_script/ && bash script.sh 
 ```
-3. NOTE - Things to do after the script is executed: 
-    a. In Tmux, press "ctrl+b I" to install all the plugins
-    b. In Nvim, run ":PlugInstall" to install all the plugins
+3. NOTE - Things to do after the script is executed:   
+    a. In Tmux, press "ctrl+b I" to install all the plugins  
+    b. In Nvim, run ":PlugInstall" to install all the plugins  
